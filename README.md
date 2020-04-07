@@ -30,7 +30,7 @@ python test.py
 | Data/Model(acc)   | AG_News  | SUBJ  | MR    | CR    | MPQA  |
 | ------            | ----- | ----- | ----- | ----- | ----- |
 | Pooling          | - | - | - | - | - |
-| CNN               | 82.28 | - | - | - | - |
+| text_cnn               | 82.28 | - | - | - | - |
 | Char_CNN          | - | - | - | - | - |
 | Multi_Channel_CNN | - | - | - | - | - |
 | Multi_Layer_CNN   | - | - | - | - | - |
