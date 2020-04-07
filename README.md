@@ -36,7 +36,7 @@ python test.py
 | Multi_Layer_CNN   | - | - | - | - | - |
 | LSTM              | - | - | - | - | - |
 | LSTM_CNN          | - | - | - | - | - |
-| GRU               | - | - | - | - | - |
+| GRU               | 80.1 | - | - | - | - |
 | TreeLSTM         | - | - | - | - | - |
 | biTreeLSTM        | - | - | - | - | - |
 | TreeLSTM_rel     | - | - | - | - | - |
