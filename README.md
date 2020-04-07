@@ -1,16 +1,20 @@
 # Text-classification
 A classification of Text which is implemented by pytorch
-# checkpoints
+## checkpoints
 存储训练好的模型，vectorizer
-# data
+## data
 对数据进行处理，加载
-# model
+## model
 存放模型
-# utils
+## utils
 工具函数
-# config
+## config
 配置信息
-# main
+## main
 主函数，主要是训练，验证模型
-# test
+## test
 测试模型的准确率
+## Requirement
+        python : 3.5+
+        pytorch : 0.4.1
+        cuda : 8.0 (support GPU, you can choose)
