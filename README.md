@@ -16,5 +16,30 @@ A classification of Text which is implemented by pytorch
 测试模型的准确率
 ## Requirement
         python : 3.5+
-        pytorch : 0.4.1
-        cuda : 8.0 (support GPU, you can choose)
+        pytorch : 1.4.0
+        cuda : 9.0 (support GPU, you can choose)
+## Usage
+- first step
+
+python main.py
+- second step
+
+python test.py
+
+## Result
+| Data/Model(acc)   | AG_News  | SUBJ  | MR    | CR    | MPQA  |
+| ------            | ----- | ----- | ----- | ----- | ----- |
+| Pooling          | - | - | - | - | - |
+| CNN               | 82.28 | - | - | - | - |
+| Char_CNN          | - | - | - | - | - |
+| Multi_Channel_CNN | - | - | - | - | - |
+| Multi_Layer_CNN   | - | - | - | - | - |
+| LSTM              | - | - | - | - | - |
+| LSTM_CNN          | - | - | - | - | - |
+| GRU               | - | - | - | - | - |
+| TreeLSTM         | - | - | - | - | - |
+| biTreeLSTM        | - | - | - | - | - |
+| TreeLSTM_rel     | - | - | - | - | - |
+| biTreeLSTM_rel    | - | - | - | - | - |
+| CNN_TreeLSTM      | - | - | - | - | - |
+| LSTM_TreeLSTM     | - | - | - | - | - |
