@@ -43,3 +43,9 @@ python test.py
 | biTreeLSTM_rel    | - | - | - | - | - |
 | CNN_TreeLSTM      | - | - | - | - | - |
 | LSTM_TreeLSTM     | - | - | - | - | - |
+
+### In addition:
+
+#### Emphasize
+ - `pre_trained_embed` which is using `glove.6B.100d.txt`.
+
